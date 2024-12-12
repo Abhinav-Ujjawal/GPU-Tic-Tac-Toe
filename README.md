@@ -27,5 +27,5 @@ This project implements a simple Tic-Tac-Toe game in Python, where two GPU-based
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Abhinav-Ujjawal/GPU-Tic-Tac-Toe.git
+   cd GPU-Tic-Tac-Toe
